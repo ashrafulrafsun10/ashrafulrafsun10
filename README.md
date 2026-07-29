@@ -76,9 +76,9 @@ Building modern web applications inspired by aviation, aerospace, and education.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashrafulrafsun10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashrafulrafsun10&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulrafsun10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulrafsun10&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </p>
 
@@ -88,7 +88,7 @@ Building modern web applications inspired by aviation, aerospace, and education.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ashrafulrafsun10&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=ashrafulrafsun10&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 </p>
 
