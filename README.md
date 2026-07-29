@@ -172,3 +172,64 @@ https://ashrafulrafsun10.github.io/global-gpa-converter/
 - Open Source Collaboration
 - International Academic Programs
 - Innovative Engineering Projects
+---
+
+# 🎯 2026 Goals
+
+- 🎓 Begin my Aerospace Engineering journey
+- 💻 Master Front-End Development
+- ⚛️ Learn React.js
+- 🟢 Learn Node.js
+- 🚀 Build more Aerospace & Aviation Projects
+- 🌍 Contribute to Open Source Projects
+- 📖 Continuously improve problem-solving skills
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+**ashrafulrafsun10@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ashrafulferdousrafsun
+
+💻 **GitHub**
+
+https://github.com/ashrafulrafsun10
+
+---
+
+# 🌍 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashrafulrafsun10&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Dream Big. Build Bigger. Fly Higher."**
+
+*"Engineering tomorrow's aviation and space technologies through continuous learning and innovation."*
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my projects,
+
+⭐ Star the repositories
+
+🤝 Connect with me on LinkedIn
+
+🚀 Let's build something amazing together!
+
+</div>
