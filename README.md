@@ -71,4 +71,109 @@ Building modern web applications inspired by aviation, aerospace, and education.
 - 🌍 Educational Web Applications
 - 💻 Front-End Development
 - 📱 Responsive Web Design
-- 
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashrafulrafsun10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulrafsun10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashrafulrafsun10&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚀 AstroLaunch — Live Space Launch Tracker
+
+Real-time space launch tracker featuring countdown timers, mission details, rocket information, and launch updates.
+
+🔗 Repository
+
+https://github.com/ashrafulrafsun10/AstroLaunch-Live-Space-Launch-Tracker
+
+🌐 Live Demo
+
+https://ashrafulrafsun10.github.io/AstroLaunch-Live-Space-Launch-Tracker/
+
+---
+
+## 🛰 ISS Live Satellite Tracker
+
+Track the International Space Station in real time with an interactive world map and live satellite position.
+
+🔗 Repository
+
+https://github.com/ashrafulrafsun10/ISS-Live-Satellite-Tracker
+
+🌐 Live Demo
+
+https://ashrafulrafsun10.github.io/ISS-Live-Satellite-Tracker/
+
+---
+
+## ✈ AeroPerf — Aircraft Performance Calculator
+
+Interactive aircraft performance calculator built for aviation enthusiasts and aerospace students.
+
+🔗 Repository
+
+https://github.com/ashrafulrafsun10/AeroPerf-Aircraft-Performance-Calculator
+
+🌐 Live Demo
+
+https://ashrafulrafsun10.github.io/AeroPerf-Aircraft-Performance-Calculator/
+
+---
+
+## 🎓 Scholarship Eligibility Checker
+
+Simple web application for checking scholarship eligibility based on academic information.
+
+🔗 Repository
+
+https://github.com/ashrafulrafsun10/scholarship-eligibility-checker
+
+🌐 Live Demo
+
+https://ashrafulrafsun10.github.io/scholarship-eligibility-checker/
+
+---
+
+## 📘 SAT Score Predictor
+
+Predict SAT scores instantly using a modern responsive interface.
+
+🔗 Repository
+
+https://github.com/ashrafulrafsun10/sat-score-predictor
+
+🌐 Live Demo
+
+https://ashrafulrafsun10.github.io/sat-score-predictor/
+
+---
+
+## 🌍 Global GPA Converter
+
+Convert GPA between multiple international grading systems quickly and accurately.
+
+🔗 Repository
+
+https://github.com/ashrafulrafsun10/global-gpa-converter
+
+🌐 Live Demo
+
+https://ashrafulrafsun10.github.io/global-gpa-converter/
